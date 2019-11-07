@@ -1,4 +1,0 @@
-
-print("github")
-
-print("heeeeeeeeeeeellllllllllllllllllllllll")
