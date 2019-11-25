@@ -29,6 +29,7 @@ if c == a :
 else:
 	print("회문이 아닙니다.")
 
+
 class Counter:
 	def reset(self):
 		self.count = 0
